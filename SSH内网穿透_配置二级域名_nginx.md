@@ -19,12 +19,12 @@ __ubuntu 18.04__
     }
 }
  
-  ....
+   ....
 
 ```
 - 验证 重启  
 *nginx -t nginx -s reload*  
-
+打开服务器上 /etc/sshd/config gateway端口
 
 =============================================
 ## Xshell 配置 转发
